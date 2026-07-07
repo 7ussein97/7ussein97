@@ -1,102 +1,104 @@
-```markdown
+````markdown
 # Hussein AlGhafri
 
-Software Development Engineer with experience in designing and developing web, mobile, and AI-powered applications. I enjoy building scalable software, solving complex problems, and learning new technologies.
+> Software Development Engineer focused on building scalable backend systems, AI-powered applications, and modern software solutions.
 
 ---
 
-## About Me
+## About
 
-I specialize in backend development using ASP.NET Core and have experience building enterprise applications, REST APIs, mobile applications, and AI-powered solutions. My interests include software architecture, artificial intelligence, system integration, and modern application development.
+I am a Software Development Engineer with experience developing enterprise applications, REST APIs, mobile applications, and AI-driven solutions. I enjoy designing systems that are reliable, maintainable, and built to solve real-world problems.
+
+My primary interests include:
+
+- Backend Engineering
+- Artificial Intelligence
+- Software Architecture
+- System Integration
+- Cloud Technologies
+- Mobile Development
 
 ---
 
-## Technical Skills
+## Technology Stack
 
 ### Languages
-- C#
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
+
+```text
+C# • Java • Python • JavaScript • TypeScript • SQL
+```
 
 ### Backend
-- ASP.NET Core
-- .NET
-- Entity Framework Core
-- REST APIs
+
+```text
+ASP.NET Core • .NET • Entity Framework Core • REST APIs
+```
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+
+```text
+HTML • CSS • JavaScript • React
+```
 
 ### Mobile
-- Android (Java)
-- Flutter
+
+```text
+Android (Java) • Flutter
+```
 
 ### Databases
-- SQL Server
-- MySQL
-- SQLite
 
-### Tools
-- Git
-- GitHub
-- Docker
-- Visual Studio
-- Visual Studio Code
-- Postman
+```text
+SQL Server • MySQL • SQLite
+```
 
----
+### Development Tools
 
-## Areas of Interest
-
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Backend Engineering
-- System Integration
-- Software Architecture
-- Cloud Technologies
+```text
+Git • GitHub • Docker • Visual Studio • VS Code • Postman
+```
 
 ---
 
-## Selected Projects
+## Featured Work
 
-- AI Tender Analyzer
-- AI CV Analyzer
-- Real Estate Platform
-- Car Rental Management System
-- Coffee Shop Management System
-- School Management System
-- Livestock Management System
-- Government System Integrations
-- Mobile Applications
+| Project | Description |
+|---------|-------------|
+| AI Tender Analyzer | AI-powered document analysis and evaluation platform |
+| AI CV Analyzer | Resume analysis using AI technologies |
+| Real Estate Platform | Property management and digital real estate solutions |
+| Government Integrations | Secure integrations with government platforms and APIs |
+| Management Systems | School, Coffee Shop, Livestock, and Car Rental systems |
+| Mobile Applications | Native Android and Flutter applications |
 
 ---
 
 ## Current Focus
 
-- Building AI-powered applications
-- Designing scalable backend systems
-- Exploring modern software architecture
-- Learning cloud-native development
+- Building AI-powered software solutions
+- Designing scalable backend architectures
+- Learning cloud-native technologies
+- Exploring Large Language Models (LLMs)
 
 ---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7ussein97&show_icons=false&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ussein97&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=7ussein97&show_icons=false&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ussein97&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-## Contact
+## Philosophy
 
-GitHub: https://github.com/7ussein97
+> Build software that is simple to use, scalable to grow, and reliable in production.
 
-LinkedIn: https://www.linkedin.com/in/hussein-alghafri/
-```
+---
+
+## Connect
+
+- GitHub: https://github.com/7ussein97
+- LinkedIn: https://www.linkedin.com/in/hussein-alghafri/
+````
