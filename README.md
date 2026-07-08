@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Software Developer** with hands-on experience building scalable web applications, RESTful APIs, and cross-platform mobile apps. Passionate about writing clean, maintainable code and delivering end-to-end solutions — from backend architecture to polished user interfaces.
+Results-driven **Software Developer** in Oman with hands-on experience building scalable web applications, RESTful APIs, and cross-platform mobile apps. Passionate about writing clean, maintainable code and delivering end-to-end solutions — from backend architecture to polished user interfaces.
 
 - 🔭 Currently working at **FRONTECH**
 - 🌱 Always exploring new technologies and best practices
